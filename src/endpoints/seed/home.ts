@@ -60,7 +60,7 @@ export const home: RequiredDataFromCollectionSlug<'pages'> = {
                     format: 0,
                     mode: 'normal',
                     style: '',
-                    text: 'Visit the admin dashboard',
+                    text: 'Visit the admin dashboard now',
                     version: 1,
                   },
                 ],
